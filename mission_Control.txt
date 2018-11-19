@@ -1,0 +1,15 @@
+///PAGE1///
+//int numberOfFunctions = 3;
+//ln numberOfFunctions;
+
+
+
+//The main purpose of this app is to allow a user to take a picture from their phone, a pdf and a few other supported formats
+//so that they can then read, edit and playback the music that was scanned to the image through OMR technology.
+
+//TO DO
+ //   Make 3 Main Functions:
+  //      READ (Consider quality of file, and make contigency for images that aren't usable)
+   //     EDIT (Give the user the ability to make adjustments to the score they took a picture of)
+    //    Playback (Have a 31 band equalizer that will allow HD playback as well as a 10 band equalizer and support of all lossi formats playback as well)
+     //   **Look for a technology that has a good sheet music reader for quality playback.

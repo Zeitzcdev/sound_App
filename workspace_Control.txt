@@ -1,0 +1,7 @@
+/**
+--Multiline Comments--
+"better-comments.multilineComments": true
+
+
+
+*/
